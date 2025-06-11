@@ -1,17 +1,25 @@
 ### Hi there 👋
 
-# Hello, I'm Mayank Variya! 👋
+# 👨‍💻 Hello, I'm Mayank Variya!
 
-I'm a Android/Flutter Developer based in Surat,Gujarat, passionate about Mobile App Developing.
+I'm a Flutter & Android Developer based in Surat, Gujarat 🇮🇳, passionate about crafting scalable and user-friendly mobile applications.
 
-- 🔭 I’m currently working on Chat App
-- 🌱 I’m currently learning Java
+- 🛠️ Love working with **Firebase**, REST APIs, and clean architecture (MVVM)
+- 🤝 Open to collaboration on real-world mobile app projects
 
-## Skills
-- Languages : Dart , Kotlin , Java
-- Frameworks : Flutter
-- Platform : Android
-  
-## Connect with Me
+## 🧠 Skills
+
+- **Languages:** Dart, Kotlin  
+- **Frameworks & Tools:** Flutter, Jetpack Compose, Android SDK  
+- **Technologies:** Firebase (Auth, Firestore, Functions), REST APIs, Bluetooth  
+- **Practices:** MVVM, CI/CD, Agile, Unit Testing  
+
+## 📫 Connect with Me
+
 - [LinkedIn](https://linkedin.com/in/mayank-variya-134885228)
+- 📧 Email: mdvvariya@gmail.com  
+- 🔗 [Portfolio (coming soon)]()
 
+---
+
+Thanks for visiting my profile! 😊
