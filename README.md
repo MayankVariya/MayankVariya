@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hello, I'm Mayank Variya!
 
-I'm a Flutter & Android Developer based in Surat, Gujarat 🇮🇳, passionate about crafting scalable and user-friendly mobile applications.
+I'm aMobile App Developer  based in Surat, Gujarat 🇮🇳, passionate about crafting scalable and user-friendly mobile applications.
 
 - 🛠️ Love working with **Firebase**, REST APIs, and clean architecture (MVVM)
 - 🤝 Open to collaboration on real-world mobile app projects
